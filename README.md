@@ -1,2 +1,2 @@
 # frontend-assignment
-assignment
+Assignement
